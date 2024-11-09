@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>Cà Phê Sữa Đá</name>
+        <price>35000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Cà Phê Đen</name>
+        <price>29000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Bạc Xỉu</name>
+        <price>39000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>4</id>
+        <name>Espresso</name>
+        <price>35000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>5</id>
+        <name>Cappuccino</name>
+        <price>45000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>6</id>
+        <name>Latte</name>
+        <price>45000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>7</id>
+        <name>Mocha</name>
+        <price>49000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>8</id>
+        <name>Americano</name>
+        <price>39000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>9</id>
+        <name>Caramel Macchiato</name>
+        <price>49000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>10</id>
+        <name>Cà Phê Trứng</name>
+        <price>45000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>11</id>
+        <name>Matcha Latte</name>
+        <price>49000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>12</id>
+        <name>Chocolate Đá Xay</name>
+        <price>49000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>13</id>
+        <name>Trà Đào Cam Sả</name>
+        <price>45000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>14</id>
+        <name>Trà Vải</name>
+        <price>45000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>15</id>
+        <name>Sinh Tố Bơ</name>
+        <price>49000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>16</id>
+        <name>Sinh Tố Dâu</name>
+        <price>45000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>17</id>
+        <name>Nước Ép Cam</name>
+        <price>39000</price>
+        <quantity>100</quantity>
+    </product>
+    <product>
+        <id>18</id>
+        <name>Nước Ép Dứa</name>
+        <price>39000</price>
+        <quantity>100</quantity>
+    </product>
+</products>

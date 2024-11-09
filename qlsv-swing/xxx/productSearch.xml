@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <productCode>1</productCode>
+        <productName>Cà Phê Sữa Đá</productName>
+        <price>35000</price>
+    </product>
+    <product>
+        <productCode>2</productCode>
+        <productName>Cà Phê Đen</productName>
+        <price>29000</price>
+    </product>
+    <product>
+        <productCode>3</productCode>
+        <productName>Bạc Xỉu</productName>
+        <price>39000</price>
+    </product>
+    <product>
+        <productCode>4</productCode>
+        <productName>Espresso</productName>
+        <price>35000</price>
+    </product>
+    <product>
+        <productCode>5</productCode>
+        <productName>Cappuccino</productName>
+        <price>45000</price>
+    </product>
+    <product>
+        <productCode>6</productCode>
+        <productName>Latte</productName>
+        <price>45000</price>
+    </product>
+    <product>
+        <productCode>7</productCode>
+        <productName>Mocha</productName>
+        <price>49000</price>
+    </product>
+    <product>
+        <productCode>8</productCode>
+        <productName>Americano</productName>
+        <price>39000</price>
+    </product>
+    <product>
+        <productCode>9</productCode>
+        <productName>Caramel Macchiato</productName>
+        <price>49000</price>
+    </product>
+    <product>
+        <productCode>10</productCode>
+        <productName>Cà Phê Trứng</productName>
+        <price>45000</price>
+    </product>
+</products>

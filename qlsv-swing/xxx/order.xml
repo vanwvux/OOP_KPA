@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+    <order>
+        <id>1</id>
+        <customerName>Vũ Văn Nguyễn</customerName>
+        <amount>80000.0</amount>
+        <timestamp>2024-11-08T20:47:39.653498700</timestamp>
+        <status>Đang chờ</status>
+    </order>
+    <order>
+        <id>2</id>
+        <customerName>Nguyễn Thị Mai</customerName>
+        <amount>120000.0</amount>
+        <timestamp>2024-11-08T20:50:15.123498700</timestamp>
+        <status>Đã hoàn thành</status>
+    </order>
+    <order>
+        <id>3</id>
+        <customerName>Trần Văn Toàn</customerName>
+        <amount>95000.0</amount>
+        <timestamp>2024-11-08T20:55:10.543498700</timestamp>
+        <status>Đang chờ</status>
+    </order>
+    <order>
+        <id>4</id>
+        <customerName>Phạm Minh Đức</customerName>
+        <amount>75000.0</amount>
+        <timestamp>2024-11-08T21:00:25.653498700</timestamp>
+        <status>Đã hoàn thành</status>
+    </order>
+    <order>
+        <id>5</id>
+        <customerName>Lê Thị Lan</customerName>
+        <amount>100000.0</amount>
+        <timestamp>2024-11-08T21:05:35.763498700</timestamp>
+        <status>Đang chờ</status>
+    </order>
+    <order>
+        <id>6</id>
+        <customerName>Nguyễn Hoàng Hải</customerName>
+        <amount>150000.0</amount>
+        <timestamp>2024-11-08T21:10:40.873498700</timestamp>
+        <status>Đã hoàn thành</status>
+    </order>
+</orders>

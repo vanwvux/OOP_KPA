@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventoryItems>
+    <inventoryItem>
+        <name>Cà Phê Hạt</name>
+        <quantity>20</quantity>
+        <price>10000</price>
+    </inventoryItem>
+    <inventoryItem>
+        <name>Trà Đào</name>
+        <quantity>50</quantity>
+        <price>8000</price>
+    </inventoryItem>
+    <inventoryItem>
+        <name>Sữa Tươi</name>
+        <quantity>30</quantity>
+        <price>7000</price>
+    </inventoryItem>
+    <inventoryItem>
+        <name>Đường</name>
+        <quantity>100</quantity>
+        <price>5000</price>
+    </inventoryItem>
+    <inventoryItem>
+        <name>Trà Xanh</name>
+        <quantity>40</quantity>
+        <price>6000</price>
+    </inventoryItem>
+</inventoryItems>

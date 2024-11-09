@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+    <employee>
+        <id>1</id>
+        <name>Vũ Văn Nguyễn</name>
+        <position>Chủ</position>
+        <salary>10000000</salary>
+    </employee>
+    <employee>
+        <id>2</id>
+        <name>Nguyễn Thị Mai</name>
+        <position>Quản lý</position>
+        <salary>8000000</salary>
+    </employee>
+    <employee>
+        <id>3</id>
+        <name>Trần Văn Toàn</name>
+        <position>Nhân viên pha chế</position>
+        <salary>5000000</salary>
+    </employee>
+    <employee>
+        <id>4</id>
+        <name>Phạm Minh Đức</name>
+        <position>Nhân viên phục vụ</position>
+        <salary>4000000</salary>
+    </employee>
+    <employee>
+        <id>5</id>
+        <name>Lê Thị Lan</name>
+        <position>Nhân viên phục vụ</position>
+        <salary>4000000</salary>
+    </employee>
+    <employee>
+        <id>6</id>
+        <name>Nguyễn Hoàng Hải</name>
+        <position>Nhân viên pha chế</position>
+        <salary>5000000</salary>
+    </employee>
+</employees>
